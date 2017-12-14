@@ -37,5 +37,5 @@ end
 
 
 def play(board, valid_move)
-  
+
 end
