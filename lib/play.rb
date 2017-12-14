@@ -36,6 +36,7 @@ def turn(board)
 end
 
 
-def play(board, valid_move)
+def play(board)
+  counter = 0
 
 end
