@@ -35,4 +35,11 @@ def turn(board)
   end
 end
 
-# Define your play method below
+
+def play(board, valid_move)
+  counter = 0
+  counter <= 10
+  counter = counter += 1
+  turn(board)
+end
+end
